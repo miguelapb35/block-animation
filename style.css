@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:700);
+body{
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Ubuntu', sans-serif;
+  background: hsla(163, 55%, 5%, 1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to right top, hsla(163, 55%, 5%, 1), hsla(0, 5%, 5%, 1));
+  background-image: -moz-linear-gradient(to right top, hsla(163, 55%, 5%, 1), hsla(0, 5%, 5%, 1));
+}
+svg{
+  width: 100%;
+}
+h2{
+  color: hsla(163, 95%, 55%, 1);
+  font-size: 2.5vw;
+  text-align: center;
+  margin-top: 5%;
+}
+h3{
+  color: hsla(163, 95%, 85%, 1);
+  text-align: center;
+}
